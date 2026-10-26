@@ -1,0 +1,15 @@
+# Snapshot archive manifest
+
+Head block: 964814
+Created:    2026-08-31T02:58:50Z
+Source RPC: https://mainnet.opnet.org/api/v1/json-rpc
+
+Rows (uncompressed):
+  events.jsonl    312989
+  txs.jsonl       184690
+
+Unread blocks: []
+
+SHA-256:
+  9d69f772671614630835c00cdeb98c30a4f6ae68ebf219220aa7e39768f709c8  archive/events-to-964814.jsonl.gz
+  191167148bb99d131cff31791122a2789c8bb0e81ba9d209a6e09f1e140df280  archive/txs-to-964814.jsonl.gz

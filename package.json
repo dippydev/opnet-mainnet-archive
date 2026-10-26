@@ -1,0 +1,16 @@
+{
+  "name": "opnet-mainnet-archive",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=23.6"
+  },
+  "scripts": {
+    "check": "node scripts/check.ts",
+    "motoswap": "node scripts/motoswap-volume.ts --out out"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "typescript": "5.9"
+  }
+}
